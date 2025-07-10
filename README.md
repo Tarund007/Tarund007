@@ -6,8 +6,9 @@
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-upload-path.jpg" alt="Nature" width="400"/>
+  <img src="https://github.com/user-attachments/assets/7c7dc38a-0fc6-43e6-9305-071ebbfa9fc6" alt="Nature" width="400"/>
 </p>
+
 
 ---
 
