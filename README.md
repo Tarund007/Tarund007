@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7c7dc38a-0fc6-43e6-9305-071ebbfa9fc6" alt="Nature" width="800"/>
+  <img src="https://github.com/user-attachments/assets/7c7dc38a-0fc6-43e6-9305-071ebbfa9fc6" alt="Nature" width="1000"/>
 </p>
 
 
