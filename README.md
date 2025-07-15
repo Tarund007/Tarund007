@@ -56,10 +56,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tarund007&style=flat-square&color=blue" alt="Visitor Counter"/>
-</p>
-
-<p align="center">
   <img src="https://github-contribution-stats.vercel.app/api/?username=Tarund007&theme=radical" alt="Contribution Stats"/>
 </p>
 
