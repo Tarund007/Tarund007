@@ -68,12 +68,37 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tarund007&show_icons=false&hide_title=true&hide_rank=true&hide=prs,issues,contribs&theme=calm" alt="GitHub stats" width="350"/>
-</p>
+## 🌲 My Github Stats
 
----
-
-<p align="center">
-  <b><i>“Technology empowers us to make a difference; nature reminds us why we should.”</i></b>
-</p>
+<div align="center">
+  <div style="background:#1A1B27; border-radius:15px; box-shadow: 0 8px 24px #2228; padding:20px; width:90%; margin:auto;">
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 20px;">
+      <!-- Profile Details Card -->
+      <div style="background:#1A1B27; border-radius:15px; box-shadow: 0 8px 24px #2228; padding:20px; width:420px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tarund007&theme=github_dark" width="100%" alt="Profile Details" style="border-radius: 10px;"/>
+      </div>
+      <!-- Stats Card -->
+      <div style="background:#1A1B27; border-radius:15px; box-shadow: 0 8px 24px #2228; padding:20px; width:420px;">
+        <h3 style="color:#E91E63; font-family:'Fira Code'; text-align:center;">Stats</h3>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tarund007&theme=github_dark" width="100%" alt="General Stats" style="border-radius: 10px;"/>
+      </div>
+      <!-- Languages Card -->
+      <div style="background:#1A1B27; border-radius:15px; box-shadow: 0 8px 24px #2228; padding:20px; width:420px;">
+        <h3 style="color:#E91E63; font-family:'Fira Code'; text-align:center;">Languages</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarund007&layout=compact&theme=github_dark&hide_title=true&card_width=380" width="100%" alt="Languages Used" style="border-radius: 10px;"/>
+      </div>
+      <!-- Contribution Stats Card -->
+      <div style="background:#1A1B27; border-radius:15px; box-shadow: 0 8px 24px #2228; padding:20px; width:420px;">
+        <h3 style="color:#E91E63; font-family:'Fira Code'; text-align:center;">Contribution Stats</h3>
+        <img src="https://github-contribution-stats.vercel.app/api/?username=Tarund007&theme=github-dark-card" width="100%" alt="Contribution Stats" style="border-radius: 10px;"/>
+      </div>
+      <!-- Commits Card -->
+      <div style="background:#1A1B27; border-radius:15px; box-shadow: 0 8px 24px #2228; padding:20px; width:420px;">
+        <h3 style="color:#E91E63; font-family:'Fira Code'; text-align:center;">Commits</h3>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tarund007&theme=github_dark&utcOffset=8" width="100%" alt="Commits Card" style="border-radius: 10px;"/>
+      </div>
+    </div>
+  </div>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Tarund007&style=for-the-badge&color=E91E63" alt="Profile Views"/>
+</div>
