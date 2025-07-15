@@ -30,6 +30,41 @@
 
 ---
 
+### 🎉 Fun Facts About Me
+- 🌎 I am passionate about traveling and exploring new cultures.
+- 📷 I have over 1,000 nature photographs in my collection.
+- 🧘 I practice yoga to stay connected with nature and myself.
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tarund007&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Tarun's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tarund007&layout=compact&theme=radical" alt="Tarun's Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tarund007&theme=radical" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tarund007&theme=radical" alt="GitHub Achievements"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tarund007&style=flat-square&color=blue" alt="Visitor Counter"/>
+</p>
+
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=Tarund007&theme=radical" alt="Contribution Stats"/>
+</p>
+
+---
+
 ### 💼 Professional Goals
 
 - Transition into a **Product Management** role in technology-driven organizations.
@@ -40,15 +75,26 @@
 
 ### 🛠️ Skills & Tools
 
-![Product Management](https://img.shields.io/badge/Product%20Management-%231B9A59?style=for-the-badge&logo=producthunt&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-%2300ADD8?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Photography](https://img.shields.io/badge/Photography-000000?style=for-the-badge&logo=aperture&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/camera.png" alt="Photography Tools" width="40"/>
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/fluency/48/000000/project-management.png" alt="Project Management" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/agile.png" alt="Agile Methodology" width="40"/>
+</p>
 
 ---
 
@@ -62,43 +108,43 @@
 
 ### 🌍 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-dinkar-14a5ba252/)
-[![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/TarunD15414565)
-[![Gmail](https://img.shields.io/badge/Email-dinkartarun00@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinkartarun00@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/tarun-dinkar-14a5ba252/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+  <a href="https://x.com/TarunD15414565">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X Profile"/>
+  </a>
+  <a href="mailto:dinkartarun00@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dinkartarun00@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-## 🌲 My Github Stats
+### 🎮 When I am AFK
 
-<div align="center">
-  <div style="background:#1A1B27; border-radius:15px; box-shadow: 0 8px 24px #2228; padding:20px; width:90%; margin:auto;">
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 20px;">
-      <!-- Profile Details Card -->
-      <div style="background:#1A1B27; border-radius:15px; box-shadow: 0 8px 24px #2228; padding:20px; width:420px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tarund007&theme=github_dark" width="100%" alt="Profile Details" style="border-radius: 10px;"/>
-      </div>
-      <!-- Stats Card -->
-      <div style="background:#1A1B27; border-radius:15px; box-shadow: 0 8px 24px #2228; padding:20px; width:420px;">
-        <h3 style="color:#E91E63; font-family:'Fira Code'; text-align:center;">Stats</h3>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tarund007&theme=github_dark" width="100%" alt="General Stats" style="border-radius: 10px;"/>
-      </div>
-      <!-- Languages Card -->
-      <div style="background:#1A1B27; border-radius:15px; box-shadow: 0 8px 24px #2228; padding:20px; width:420px;">
-        <h3 style="color:#E91E63; font-family:'Fira Code'; text-align:center;">Languages</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarund007&layout=compact&theme=github_dark&hide_title=true&card_width=380" width="100%" alt="Languages Used" style="border-radius: 10px;"/>
-      </div>
-      <!-- Contribution Stats Card -->
-      <div style="background:#1A1B27; border-radius:15px; box-shadow: 0 8px 24px #2228; padding:20px; width:420px;">
-        <h3 style="color:#E91E63; font-family:'Fira Code'; text-align:center;">Contribution Stats</h3>
-        <img src="https://github-contribution-stats.vercel.app/api/?username=Tarund007&theme=github-dark-card" width="100%" alt="Contribution Stats" style="border-radius: 10px;"/>
-      </div>
-      <!-- Commits Card -->
-      <div style="background:#1A1B27; border-radius:15px; box-shadow: 0 8px 24px #2228; padding:20px; width:420px;">
-        <h3 style="color:#E91E63; font-family:'Fira Code'; text-align:center;">Commits</h3>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tarund007&theme=github_dark&utcOffset=8" width="100%" alt="Commits Card" style="border-radius: 10px;"/>
-      </div>
-    </div>
-  </div>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Tarund007&style=for-the-badge&color=E91E63" alt="Profile Views"/>
-</div>
+<p align="center">
+  <b>Relaxing and Exploring</b><br>
+  <img src="https://img.icons8.com/color/48/000000/steam.png" alt="Steam" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/xbox.png" alt="Xbox" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/netflix.png" alt="Netflix" width="40"/>
+</p>
+
+---
+
+### 🤝 Let's Collaborate!
+I am always open to new opportunities in product management, sustainability, and technology. Feel free to reach out!
+
+---
+
+### ✨ Quote
+
+<p align="center">
+  <i>“Technology empowers us to make a difference; nature reminds us why we should.”</i>
+</p>
+
+---
+
+### 🙏 Thank You!
+Thank you for visiting my GitHub profile! Your interest in my work means a lot to me. Feel free to connect, collaborate, or simply drop a message—I’m always happy to hear from you.
