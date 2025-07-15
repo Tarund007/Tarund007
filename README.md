@@ -32,7 +32,7 @@
 
 ### 🎉 Fun Facts About Me
 - 🌎 I am passionate about traveling and exploring new cultures.
-- 📷 I have over 1,000 nature photographs in my collection.
+- 📷 I have over 100 nature photographs in my collection.
 - 🧘 I practice yoga to stay connected with nature and myself.
 
 ---
