@@ -15,14 +15,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=1B9A59&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Aspiring+Product+Manager;Technology+Enthusiast;Nature+Lover;Photographer;Lifelong+Learner" alt="Animated typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=1B9A59&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Aspiring+Product+Analyst;Technology+Enthusiast;Nature+Lover;Photographer;Lifelong+Learner" alt="Animated typing SVG" />
 </p>
 
 ---
 
 ### 🌱 About Me
 
-- 📈 **Aspiring Product Manager** with a keen interest in building technology-driven solutions that make a positive impact.
+- 📈 **Aspiring Product Analyst** with a keen interest in building technology-driven solutions that make a positive impact.
 - 💡 Passionate about **technology**, product strategy, and user experience.
 - 🌳 **Nature enthusiast** who believes inspiration comes from the outdoors.
 - 📷 **Photography** is my creative outlet—capturing nature's beauty through my lens (all photos on this profile are by me, Tarun Dinkar).
